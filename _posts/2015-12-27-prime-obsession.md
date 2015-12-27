@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《素数之恋》"
+title: "素数之恋"
 comments: true
 author: "Dante"
 ---
